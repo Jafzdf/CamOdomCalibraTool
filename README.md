@@ -1,6 +1,8 @@
 # CAM_ODO_CALIB
 ## calibrate the internel parameters and extrinsec parameters between camera and odometer
 
+## you can see blog "[camera-odom calibration](https://blog.csdn.net/wq1psa78/article/details/103512283)
+
 ## 1. Prerequisites
 ### 1.1 **Ubuntu** and **ROS**
 Ubuntu 64-bit 16.04 or 18.04.
